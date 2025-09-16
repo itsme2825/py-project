@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "123456",
+    "name": "archen aydin",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "user_type": "student",
+    "national_id": "123456",
+    "major": "Electrical Engineering"
+  },
+  {
+    "user_id": "456",
+    "name": "natachai boonprasert",
+    "password": "b3a8e0e1f9ab1bfe3a36f231f676f78bb30a519d2b21e6c530c0eee8ebb4a5d0",
+    "user_type": "student",
+    "national_id": "456",
+    "major": "computer"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "request_id": "TR_20250909_182505",
+    "student_id": "456",
+    "student_name": "natachai boonprasert",
+    "course_id": "CS401",
+    "course_title": "Advanced Thesis Project",
+    "professor": "Dr. Smith",
+    "request_date": "2025-09-09T18:25:05.631859",
+    "status": "Approved",
+    "major": "computer",
+    "approval_date": "2025-09-09T18:28:02.768937",
+    "professor_id": "45465"
+  },
+  {
+    "request_id": "TR_20250909_183248",
+    "student_id": "123456",
+    "student_name": "archen aydin",
+    "course_id": "EE401",
+    "course_title": "Electrical Engineering Thesis",
+    "professor": "Dr. Johnson",
+    "request_date": "2025-09-09T18:32:48.928783",
+    "status": "Approved",
+    "major": "Electrical Engineering",
+    "approval_date": "2025-09-09T18:35:39.664994",
+    "professor_id": "159"
+  }
+]

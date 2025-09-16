@@ -1,0 +1,50 @@
+[
+  {
+    "course_id": "CS401",
+    "title": "Advanced Thesis Project",
+    "professor": "Dr. Smith",
+    "year": "2024",
+    "semester": "First",
+    "capacity": 4,
+    "major": "Computer",
+    "resources": "Advanced Programming, Research Methods",
+    "sessions": 16,
+    "units": 4
+  },
+  {
+    "course_id": "CS402",
+    "title": "AI Research Project",
+    "professor": "Dr. Brown",
+    "year": "2024",
+    "semester": "First",
+    "capacity": 1,
+    "major": "Computer",
+    "resources": "Machine Learning, Deep Learning",
+    "sessions": 14,
+    "units": 4
+  },
+  {
+    "course_id": "EE401",
+    "title": "Electrical Engineering Thesis",
+    "professor": "Dr. Johnson",
+    "year": "2024",
+    "semester": "First",
+    "capacity": 0,
+    "major": "Electrical Engineering",
+    "resources": "Circuit Design, Electronics",
+    "sessions": 16,
+    "units": 4
+  },
+  {
+    "course_id": "ME401",
+    "title": "Mechanical Engineering Thesis",
+    "professor": "Dr. Wilson",
+    "year": "2024",
+    "semester": "First",
+    "capacity": 4,
+    "major": "Mechanical Engineering",
+    "resources": "Thermodynamics, Mechanics",
+    "sessions": 15,
+    "units": 4
+  }
+]

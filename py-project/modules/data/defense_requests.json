@@ -1,0 +1,41 @@
+[
+  {
+    "defense_id": "DR_20250912_203618",
+    "student_id": "456",
+    "student_name": "natachai boonprasert",
+    "thesis_title": "ai",
+    "abstract": "algorithm",
+    "keywords": [
+      "algorithm"
+    ],
+    "pdf_path": "uploads\\theses\\456_final_project_20250912_203613_305.pdf",
+    "first_page_path": "uploads\\theses\\456_final_project_20250912_203618_487.pdf",
+    "request_date": "2025-09-12T20:36:18.490824",
+    "status": "Approved",
+    "professor": "Dr. Smith",
+    "professor_id": "45465",
+    "course_id": "CS401",
+    "approval_date": "2025-09-12T20:36:48.435324",
+    "approved_by": "45465",
+    "internal_reviewer_id": "45465",
+    "internal_reviewer": "Dr. Smith",
+    "external_reviewer_id": "121",
+    "external_reviewer": "dr. rahmati",
+    "grades": {
+      "121": {
+        "label": "B",
+        "comments": "",
+        "grading_date": "2025-09-12T20:38:22.305832",
+        "reviewer_type": "guest",
+        "reviewer_name": "dr. rahmati"
+      },
+      "45465": {
+        "label": "A",
+        "comments": "",
+        "grading_date": "2025-09-12T20:38:45.911799",
+        "reviewer_type": "internal",
+        "reviewer_name": "Dr. Smith"
+      }
+    }
+  }
+]

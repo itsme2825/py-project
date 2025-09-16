@@ -1,0 +1,34 @@
+[
+  {
+    "user_id": "456789",
+    "name": "Dr. Brown",
+    "password": "472bbe83616e93d3c09a79103ae47d8f71e3d35a966d6e8b22f743218d04171d",
+    "user_type": "professor",
+    "national_id": "456789",
+    "major": "computer"
+  },
+  {
+    "user_id": "45465",
+    "name": "Dr. Smith",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "user_type": "professor",
+    "national_id": "123456",
+    "major": "computer"
+  },
+  {
+    "user_id": "159",
+    "name": "Dr. Johnson",
+    "password": "ff2ccb6ba423d356bd549ed4bfb76e96976a0dcde05a09996a1cdb9f83422ec4",
+    "user_type": "professor",
+    "national_id": "159",
+    "major": "Electrical Engineering"
+  },
+  {
+    "user_id": "753",
+    "name": "Dr. Wilson",
+    "password": "a8cee66e4788af8b855979155e486c988d84a42aba71e43a0fc26997ca12e737",
+    "user_type": "professor",
+    "national_id": "753",
+    "major": "Electrical Engineering"
+  }
+]
